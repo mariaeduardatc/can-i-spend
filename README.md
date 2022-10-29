@@ -17,7 +17,7 @@ Website created so users can manage their money flow and create budgets.
 - SASS
 - Styled Components
 
-### App Walk-Through
+### Website Walk-Through
 <div style="display: inline-block">
     <img src="./mainscreen.png" alt="App Screenshot 1">
     <img src="./secscreen.png" alt="App Screenshot 2">
