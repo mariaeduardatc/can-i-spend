@@ -1,4 +1,4 @@
-# can-i-spend
+# Can I Spend?
 
 ### Description
 Website created so users can manage their money flow and create budgets.
